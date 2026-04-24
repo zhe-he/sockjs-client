@@ -7,3 +7,4 @@ sockjs.min.js
 build/
 tests/html/lib/sockjs.js.map
 local.log
+.DS_Store

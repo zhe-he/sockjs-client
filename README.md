@@ -8,6 +8,8 @@
   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
 </a>
 
+The latest code is current as of April 15, 2016, with the commit ID: f93f8db228a1f1cc2b897e0e691985849df9067b
+
 # SockJS for enterprise
 
 Available as part of the Tidelift Subscription.
